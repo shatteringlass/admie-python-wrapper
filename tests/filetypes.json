@@ -1,0 +1,732 @@
+[
+    {
+        "filetype": "AwardBalancingCapacity",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "AwardBalancingCapacityProduct",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "BalancingCapacityProduct",
+        "process": "Balancing Market Settlement",
+        "data_type": "Balancing Capacity per Product",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "BalancingEnergyProduct",
+        "process": "Balancing Market Settlement",
+        "data_type": "Balancing Energy per Product",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "DryRunISPAOE",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "IMBABE",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "NetFinPosImbalAggregated",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "UpliftAccountsWeekly",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "UpliftAccountsYearly",
+        "process": "Balancing Market Settlement",
+        "data_type": "Activated Energy & Prices",
+        "period_covered": "YEAR",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "recovery_cost",
+        "process": "Cost Recovery",
+        "data_type": "Cost Recovery Transactions",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": "19:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "DailyAuctionsSpecificationsATC",
+        "process": "DAM",
+        "data_type": "ATC",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "23:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "DayAheadLoadForecast",
+        "process": "DAM",
+        "data_type": "Load Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": "Twice a day and on demand",
+        "time_gate": "09:00 and 11:00",
+        "code_article": "ARTICLE 11",
+        "description": null
+    },
+    {
+        "filetype": "DayAheadRESForecast",
+        "process": "DAM",
+        "data_type": "RES Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": "Twice a day and on demand",
+        "time_gate": "09:00 and 11:00",
+        "code_article": "ARTICLE 11",
+        "description": null
+    },
+    {
+        "filetype": "DayAheadSchedulingRequirements",
+        "process": "DAM",
+        "data_type": "DAS Requirements",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "02:00",
+        "code_article": "ARTICLE 11",
+        "description": null
+    },
+    {
+        "filetype": "DayAheadSchedulingUnitAvailabilities",
+        "process": "DAM",
+        "data_type": "Unit Availabilities",
+        "period_covered": "DAY",
+        "publication_frequency": "Twice a day and on demand",
+        "time_gate": "09:00 and 11:00 and whenever needed",
+        "code_article": "ARTICLE 27",
+        "description": null
+    },
+    {
+        "filetype": "Devit",
+        "process": "DAM",
+        "data_type": "Italian Interconnection Deviation Schedules",
+        "period_covered": "WEEK",
+        "publication_frequency": "Weekly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "Devnor",
+        "process": "DAM",
+        "data_type": "North Interconnections Deviation Schedules",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": "05:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "LTPTRsNominationsSummary",
+        "process": "DAM",
+        "data_type": "LT PTR Nominations",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "03:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "ReservoirFillingRate",
+        "process": "DAM",
+        "data_type": "Reservoir Filling Rate",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "01:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "WeekAheadLoadForecast",
+        "process": "DAM",
+        "data_type": "Load Forecast",
+        "period_covered": "WEEK",
+        "publication_frequency": "Daily",
+        "time_gate": "11:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "WeekAheadWaterUsageDeclaration",
+        "process": "DAM",
+        "data_type": "Water Usage Declaration",
+        "period_covered": "WEEK",
+        "publication_frequency": "Daily",
+        "time_gate": "02:00",
+        "code_article": "ARTICLE 13",
+        "description": null
+    },
+    {
+        "filetype": "DailyDispatchOfCreteElectricalSystem",
+        "process": "Dispatching",
+        "data_type": "Dispatch Schedule",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "DayAheadSchedulingRealTimeDeviations",
+        "process": "Dispatching",
+        "data_type": "Dispatching Justification",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "DispatchSchedulingResults",
+        "process": "Dispatching",
+        "data_type": "Dispatch Schedule",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "18:00 of the previous day",
+        "code_article": "ARTICLE 44",
+        "description": null
+    },
+    {
+        "filetype": "IntraDayDispatchSchedulingResults",
+        "process": "Dispatching",
+        "data_type": "Intra Day Dispatch Schedule",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily (on demand)",
+        "time_gate": "Whenever it is deemed necessary to resolve it",
+        "code_article": "ARTICLE 44",
+        "description": null
+    },
+    {
+        "filetype": "SignificantEvents",
+        "process": "Dispatching",
+        "data_type": "Significant Events",
+        "period_covered": "Every 3 months",
+        "publication_frequency": "Every 3 months",
+        "time_gate": null,
+        "code_article": "ARTICLE 63",
+        "description": null
+    },
+    {
+        "filetype": "MonthlySIPResults",
+        "process": "Ex-post Market",
+        "data_type": "Monthly SIP Results",
+        "period_covered": "MONTH",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ExPostImbalancePricingResults",
+        "process": "Ex-post Market, Imbalance settlement",
+        "data_type": "Dispatch Schedule",
+        "period_covered": "DAY",
+        "publication_frequency": "Three Times Per Month",
+        "time_gate": "21:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "SystemRealizationSCADA",
+        "process": "Ex-post Market, Imbalance settlement",
+        "data_type": "Unit Production and System Facts",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "22:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "InterconnectionsMaintenanceSchedule",
+        "process": "FORWARD MARKET",
+        "data_type": "Interconnection Maintenace",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly (on demand)",
+        "time_gate": "December 1st for the following calendar year",
+        "code_article": "ARTICLE 251",
+        "description": null
+    },
+    {
+        "filetype": "MonthlyLoadForecast",
+        "process": "FORWARD MARKET",
+        "data_type": "Load Forecast",
+        "period_covered": "2 MONTHS",
+        "publication_frequency": "Monthly",
+        "time_gate": "End of month",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "MonthlyNTC",
+        "process": "FORWARD MARKET",
+        "data_type": "ΝTC",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "UnitsMaintenanceSchedule",
+        "process": "FORWARD MARKET",
+        "data_type": "Unit Maintenace",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly (on demand)",
+        "time_gate": "Every May for the following October",
+        "code_article": "ARTICLE 251",
+        "description": null
+    },
+    {
+        "filetype": "YearlyLoadForecast",
+        "process": "FORWARD MARKET",
+        "data_type": "Load Forecast",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE 27",
+        "description": null
+    },
+    {
+        "filetype": "YearlyWaterUsageDeclaration",
+        "process": "FORWARD MARKET",
+        "data_type": "Water Usage Declaration",
+        "period_covered": "YEAR",
+        "publication_frequency": "Monthly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "AdhocISPResults",
+        "process": "ISP",
+        "data_type": "ISP Results",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP1DayAheadLoadForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP1DayAheadRESForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP1ISPResults",
+        "process": "ISP",
+        "data_type": "ISP Results",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP1Requirements",
+        "process": "ISP",
+        "data_type": "ISP Requirements",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP1UnitAvailabilities",
+        "process": "ISP",
+        "data_type": "Unit Availabilities",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP2DayAheadLoadForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP2DayAheadRESForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP2ISPResults",
+        "process": "ISP",
+        "data_type": "ISP Results",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP2Requirements",
+        "process": "ISP",
+        "data_type": "ISP Requirements",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP2UnitAvailabilities",
+        "process": "ISP",
+        "data_type": "Unit Availabilities",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP3IntraDayLoadForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP3IntraDayRESForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP3ISPResults",
+        "process": "ISP",
+        "data_type": "ISP Results",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP3Requirements",
+        "process": "ISP",
+        "data_type": "ISP Requirements",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP3UnitAvailabilities",
+        "process": "ISP",
+        "data_type": "Unit Availabilities",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISP4Requirements",
+        "process": "ISP",
+        "data_type": "ISP Requirements",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISPCapacityOffers",
+        "process": "ISP",
+        "data_type": "ISP Offers",
+        "period_covered": "WEEK",
+        "publication_frequency": "Weekly",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISPEnergyOffers",
+        "process": "ISP",
+        "data_type": "ISP Offers",
+        "period_covered": "WEEK",
+        "publication_frequency": "Weekly",
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "ISPWeekAheadLoadForecast",
+        "process": "ISP",
+        "data_type": "ISP Forecast",
+        "period_covered": "WEEK",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "UnitAvailabilities",
+        "process": "ISP",
+        "data_type": "Unit Availabilities",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "CurrentLineOutages",
+        "process": "Maintenance",
+        "data_type": "Current Transmission Lines Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "CurrentProtectionOutages",
+        "process": "Maintenance",
+        "data_type": "Current Protection Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "CurrentSubstationOutages",
+        "process": "Maintenance",
+        "data_type": "Current Substations Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "ProvisionalLineOutages",
+        "process": "Maintenance",
+        "data_type": "Provisional Transmission Lines Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "ProvisionalProtectionOutages",
+        "process": "Maintenance",
+        "data_type": "Provisional Protection Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "ProvisionalSubstationOutages",
+        "process": "Maintenance",
+        "data_type": "Provisional Current Substations Outage Planning",
+        "period_covered": "YEAR",
+        "publication_frequency": "Yearly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "HVCUSTCONS",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "HV Customer Consumption",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "RESMV",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "Non certified MV RES Injections",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "08:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "RESMVLVPROD",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "certified MV, LV RES Injections",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "SYSBOUNDS",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "System Bounds Energy",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": "09:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "SystemEstimationsCorrections",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "Meter Data Corrections",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": "07:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "UnitProduction",
+        "process": "Metering, Imbalance settlement",
+        "data_type": "Unit Production and System Facts",
+        "period_covered": "DAY",
+        "publication_frequency": "Three Times Per Month",
+        "time_gate": "20:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "DailyEnergyBalanceAnalysis",
+        "process": "System Operation",
+        "data_type": "Energy Balance",
+        "period_covered": "DAY",
+        "publication_frequency": null,
+        "time_gate": null,
+        "code_article": null,
+        "description": null
+    },
+    {
+        "filetype": "RealTimeSCADAImportsExports",
+        "process": "System Operation",
+        "data_type": "Net Interconnection Flows",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "23:00",
+        "code_article": "ARTICLE 63",
+        "description": null
+    },
+    {
+        "filetype": "RealTimeSCADARES",
+        "process": "System Operation",
+        "data_type": "RES Injections",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": null,
+        "code_article": "ARTICLE CODES",
+        "description": null
+    },
+    {
+        "filetype": "RealTimeSCADASystemLoad",
+        "process": "System Operation",
+        "data_type": "System Load",
+        "period_covered": "DAY",
+        "publication_frequency": "Daily",
+        "time_gate": "00:00",
+        "code_article": "ARTICLE 63",
+        "description": null
+    },
+    {
+        "filetype": "UA_ANALYSIS",
+        "process": "Uplift Accounting",
+        "data_type": "Detailed UA Results",
+        "period_covered": "MONTH",
+        "publication_frequency": "Monthly",
+        "time_gate": "18:00",
+        "code_article": "ARTICLE CODES",
+        "description": null
+    }
+]
